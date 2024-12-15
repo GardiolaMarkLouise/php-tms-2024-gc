@@ -1,0 +1,31 @@
+{
+    "theme_color": "#5c98f7",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "http://localhost/bis/login",
+    "name": "Team Management System",
+    "short_name": "LGU-TMS",
+    "description": "A web-based management system for grouping/team exclusively made for annual intercolor olympics.",
+    "icons": [
+        {
+            "src": "assets/img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
